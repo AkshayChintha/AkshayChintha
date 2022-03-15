@@ -2,7 +2,7 @@
 - 👀 I’m interested in knowing new things and learning about it 
 - 🌱 I’m currently learning sql tableau phython
 - 💞️ I’m looking to collaborate on data analytics
-- 📫 How to reach me akshaychinta@gail.com
+- 📫 How to reach me akshaychinta@gmail.com
 - 
 
 <!---
